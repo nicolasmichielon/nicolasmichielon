@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Nicolas%20Michielon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=160&section=header&text=Nícolas%20Michielon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 ## About
 
